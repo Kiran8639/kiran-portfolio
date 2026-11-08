@@ -1,0 +1,1 @@
+KIRAN KUMAR ADAPALA - UPDATED PORTFOLIO\n\nOpen index.html in a browser to preview. Keep index.html, style.css, script.js, and the resume PDF in the same folder. Upload the folder contents to your static hosting service.\n
